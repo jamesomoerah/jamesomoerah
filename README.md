@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Identity Access Management (IAM) Projects:</h2>
 
+- [JML Automation + RBAC + ABAC](https://github.com/jamesomoerah/JML-Automation-RBAC-ABAC/blob/main/README.md)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
